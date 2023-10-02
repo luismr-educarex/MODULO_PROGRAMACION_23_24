@@ -4,7 +4,8 @@ public class Programa {
 
 	public static void main(String[] args) {
 		
-	    System.out.println("Esto es un saludo desdel mi primer programa");
+	    System.out.println("Esto es un saludo desde mi primer programa");
+	    
 	    
 	}
 
