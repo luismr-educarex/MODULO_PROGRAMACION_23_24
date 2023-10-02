@@ -1,4 +1,4 @@
-# MODULO_PROGRAMACION_23_24
+# MODULO PROGRAMACION CURSO 23/34
 ### Hola, Bienvenid@ al espacio github del módulo de Programación (1DAW) 👋
 
 :construction: Repositorio en construcción :construction:
