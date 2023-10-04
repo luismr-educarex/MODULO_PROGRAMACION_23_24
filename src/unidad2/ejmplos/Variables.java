@@ -31,6 +31,9 @@ public class Variables {
 		edad=45;
 		System.out.println("Edad:"+edad);
 		
+		System.out.println("Salto de línea\n");
+		System.out.println("Esto esá en otra línea");
+		
 		
 		
 		
