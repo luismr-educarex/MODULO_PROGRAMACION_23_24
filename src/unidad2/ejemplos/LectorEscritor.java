@@ -1,4 +1,4 @@
-package unidad2.ejmplos;
+package unidad2.ejemplos;
 
 import java.util.Scanner;
 
