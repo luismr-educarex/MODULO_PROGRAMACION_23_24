@@ -26,7 +26,7 @@ public class MayorEdad {
 		}
 
 		
-		System.out.println("Gracias por usar el programa");
+		System.out.println("Gracias por usar el programa.");
 
 	}
 
