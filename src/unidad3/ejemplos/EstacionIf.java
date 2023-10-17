@@ -18,7 +18,7 @@ public class EstacionIf {
 		else if(mes>=6 && mes<=8)
 			System.out.println("VERANO");
 		else if(mes>=9 && mes<=11)
-			System.out.println("OTOÑO");
+			System.out.println("ES OTOÑO");
 		else
 			System.out.println("Valor no válido");
 
