@@ -5,6 +5,15 @@ import java.util.Scanner;
 
 public class PanelSolar {
 
+	public static void imprimirMenu() {
+		System.out.println("---PLACAS SOLARES");
+		System.out.println("1. Nueva placa solar");
+		System.out.println("2. Obtener datos placa solar");
+		System.out.println("3. Cambiar estado");
+		System.out.println("4. Calcular energía generada");
+		System.out.println("5. Salir");
+	}
+	
 	public static void main(String[] args) {
 		
 		
@@ -19,12 +28,8 @@ public class PanelSolar {
 		
 		do {
 			//MENU
-			System.out.println("---PLACAS SOLARES");
-			System.out.println("1. Nueva placa solar");
-			System.out.println("2. Obtener datos placa solar");
-			System.out.println("3. Cambiar estado");
-			System.out.println("4. Calcular energía generada");
-			System.out.println("5. Salir");
+			imprimirMenu();
+			
 			opcion = entrada.nextInt();
 			
 			switch(opcion) {
