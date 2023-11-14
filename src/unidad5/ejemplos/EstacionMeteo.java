@@ -1,6 +1,6 @@
 package unidad5.ejemplos;
 
-public class EstacionMeteorologica {
+public class EstacionMeteo{
 
 	public static void main(String[] args) {
 		
