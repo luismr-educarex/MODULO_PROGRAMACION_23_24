@@ -1,7 +1,5 @@
 package unidad6.ejemplos.cadenas;
 
-import javax.swing.plaf.synth.SynthScrollBarUI;
-
 public class Cadenas {
 	
     public static final String CAMPEON = "Real Madrid";
@@ -15,7 +13,7 @@ public class Cadenas {
 		
 		System.out.println("Longitud:"+cadena.length());
 		
-		String otraCadena = ", y ahora ampliamos la cadena";
+		String otraCadena = ", y ahora ampliamos la cadena con este texto";
 		
 		String cadenaFinal = cadena + otraCadena;
 		System.out.println(cadenaFinal);

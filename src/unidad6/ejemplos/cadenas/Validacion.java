@@ -10,7 +10,7 @@ public class Validacion {
 		String primerNombre = scanner.nextLine();
 		System.out.println("Escriba el apellido paterno:");
 		String apellidoPaterno = scanner.nextLine();
-		System.out.println("Escriba la direccion:");
+		/*System.out.println("Escriba la direccion:");
 		String direccion = scanner.nextLine();
 		System.out.println("Escriba la ciudad:");
 		String ciudad = scanner.nextLine();
@@ -20,15 +20,16 @@ public class Validacion {
 		String cp = scanner.nextLine();
 		System.out.println("Escriba el telefono:");
 		String telefono = scanner.nextLine();
+		*/
 
 		// valida la entrada del usuario y muestra mensaje de error
 		System.out.println("\nValidar resultado:");
 
-		if (!ValidacionEntrada.validarPrimerNombre(primerNombre))
+		if (!ValidacionEntrada.validarPrimerNombre(primerNombre.trim()))
 			System.out.println("Primer nombre invalido");
 		else if (!ValidacionEntrada.validarApellidoPaterno(apellidoPaterno))
 			System.out.println("Apellido paterno invalido");
-		else if (!ValidacionEntrada.validarDireccion(direccion))
+		/*else if (!ValidacionEntrada.validarDireccion(direccion))
 			System.out.println("Direccion invalida");
 		else if (!ValidacionEntrada.validarCiudad(ciudad))
 			System.out.println("Ciudad invalida");
@@ -38,6 +39,7 @@ public class Validacion {
 			System.out.println("Codigo postal invalido");
 		else if (!ValidacionEntrada.validarTelefono(telefono))
 			System.out.println("Numero telefonico invalido");
+			*/
 		else
 			System.out.println("La entrada es valida. Gracias.");
 	} // fin de main
