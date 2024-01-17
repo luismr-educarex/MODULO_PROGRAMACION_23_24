@@ -16,7 +16,7 @@ public class ValidacionEntrada {
 	// \\s+: Coincide con uno o más espacios en blanco.
 	// ([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+\\d+)
 	public static boolean validarDireccion(String direccion) {
-		return direccion.matches("([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+ \\d+)");
+		return direccion.matches("([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+\\d+)");
 	} 
 
 	// valida la ciudad

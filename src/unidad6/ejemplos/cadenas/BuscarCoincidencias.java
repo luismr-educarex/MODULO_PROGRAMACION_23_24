@@ -7,9 +7,18 @@ public class BuscarCoincidencias {
 
 	public static void main(String[] args) {
 		
+		// NRP: 7602208824A0590
 		// Ejemplo con metacaracteres
-		Pattern pattern = Pattern.compile("a.*b");
-		Matcher matcher = pattern.matcher("aXYZb");
+		// PATRON: IBAN
+		// IBAN
+		// LKASDJFSLKAFIBANALSFJLDF
+		String expresionRegular = "a.*b";
+		String cadenaUsuario = "aXYZb"; 
+		cadenaUsuario.matches(expresionRegular);
+		
+		Pattern pattern = Pattern.compile(expresionRegular);
+		Matcher matcher = pattern.matcher(cadenaUsuario);
+		
 		boolean coincide = matcher.matches(); // true
 		if(coincide) {
 			System.out.println("Encontrado");
@@ -61,7 +70,7 @@ public class BuscarCoincidencias {
 		// \\s espacio en blanco
 		// \\d dígito
 		// \\w palabra
-		 String expresion = "\\s+([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+ \\d+)";
+		 String expresion = "([a-zA-Z]+|[a-zA-Z]+\\s[a-zA-Z]+\\d+)";
 	     String entrada = "Calle Sal si puedes 123";
 
 	     Pattern patron = Pattern.compile(expresion);
