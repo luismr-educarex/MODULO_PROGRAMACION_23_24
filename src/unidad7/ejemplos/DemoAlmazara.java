@@ -4,6 +4,17 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 public class DemoAlmazara {
+	
+	public static final int CANTIDAD_MIN_ACEITUNAS = 800; // KG
+	public static final int CANTIDAD_MAX_ACEITUNAS = 2000; // KG
+	public static final double CANTIDAD_MIN_LIMPIEZA = 0.9; // KG
+	public static final double CANTIDAD_MAX_LIMPIEZA = 0.95; // KG
+	public static final double CANTIDAD_MIN_MOLTURACION = 0.9; // KG
+	public static final double CANTIDAD_MAX_MOLTURACION = 0.95; // KG
+	public static final double CANTIDAD_MIN_EXTRACCION = 0.15; // L
+	public static final double CANTIDAD_MAX_EXTRACCION = 0.25; // L
+	public static final double CANTIDAD_MIN_FILTRADO = 0.95; // L
+	public static final double CANTIDAD_MAX_FILTRADO = 0.98; // L
 
     public static void main(String[] args) {
         // Generar aleatoriamente la cantidad inicial de aceitunas (entre 800 y 1200 kg)
