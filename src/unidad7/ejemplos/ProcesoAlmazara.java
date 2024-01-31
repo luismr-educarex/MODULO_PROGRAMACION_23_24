@@ -7,11 +7,12 @@ public class ProcesoAlmazara {
 	
 	
 	
-	private double pesoAceitunas;
-	private double pesoLimpio;
-	private double pesoMolturado;
-	private double aceiteExtraido;
-	private double aceiteFiltrado;
+	private  double pesoAceitunas;
+	private  double pesoLimpio;
+	private  double pesoMolturado;
+	private  double aceiteExtraido;
+	private  double aceiteFiltrado;
+	private Cliente cliente = new Cliente();
 	
 	public ProcesoAlmazara() {
 		
@@ -51,11 +52,27 @@ public class ProcesoAlmazara {
 	        System.out.println("Peso después de la molturación: " + formato.format(pesoMolturado) + " kg");
 	        System.out.println("Aceite extraído: " + formato.format(aceiteExtraido) + " litros");
 	        System.out.println("Aceite después de la filtración: " + formato.format(aceiteFiltrado) + " litros");
+	        
+	        if(cliente!=null) {
+	        	cliente.mostrarDatos();
+	        }else {
+	        	System.out.println("No tiene cliente");
+	        }
+	        
 	}
+	
 	
 
 	
 	
+	public Cliente getCliente() {
+		return cliente;
+	}
+
+	public void setCliente(Cliente cliente) {
+		this.cliente = cliente;
+	}
+
 	public double getPesoAceitunas() {
 		return pesoAceitunas;
 	}
