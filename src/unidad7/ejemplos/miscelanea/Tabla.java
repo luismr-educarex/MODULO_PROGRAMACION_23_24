@@ -1,8 +1,6 @@
 package unidad7.ejemplos.miscelanea;
 
 import java.awt.BorderLayout;
-import java.awt.event.WindowEvent;
-import java.math.BigDecimal;
 
 import javax.swing.JFrame;
 import javax.swing.JScrollPane;
@@ -22,12 +20,19 @@ public class Tabla extends JFrame{
 	private void initComponents() {
 		
 		//Datos para la tabla
-		Object[][] datos =  new Object[][] {
-			{"Usuario 1 ","Coria,Cáceres","93333333",true},
-			{"Usuario 2 ","Plasencia,Cáceres","87878787",false},
-			{"Usuario 3 ","Mérida,Badajoz","655656565",false},
-			{"Usuario 4 ","Zafra,Badajoz","123456789",true}
+		String[][] datos =  new String[][] {
+			{"Usuario 1 ","Coria,Cáceres","93333333","Sí"},
+			{"Usuario 2 ","Plasencia,Cáceres","87878787","No"},
+			{"Usuario 3 ","Mérida,Badajoz","655656565","No"},
+			{"Usuario 4 ","Zafra,Badajoz","123456789","Sí"}
 		};
+		//Usando un array de Objects
+		/*Object[][] datos =  new Object[][] {
+			{"Usuario 1 ","Coria,Cáceres","93333333","Sí"},
+			{"Usuario 2 ","Plasencia,Cáceres","87878787","No"},
+			{"Usuario 3 ","Mérida,Badajoz","655656565","No"},
+			{"Usuario 4 ","Zafra,Badajoz","123456789","Sí"}
+		};*/
 		
 		String[] cabeceras = new String[] {
 				"Nombre","Dirección","Teléfono","Casad@"
@@ -39,10 +44,6 @@ public class Tabla extends JFrame{
 		getContentPane().add(panel,BorderLayout.CENTER);
 	}	
 		
-		
-		public static void main(String args[]) {
-			new Tabla().setVisible(true);
-		}
 		
 		
 	}
