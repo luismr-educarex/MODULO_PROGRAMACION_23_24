@@ -25,8 +25,61 @@ public class EjemploLista {
 		usuarios.add(usuario2);
 		usuarios.add(usuario3);
 		
-		System.out.println("Usuarios----");
+		System.out.println("Usuarios");
 		System.out.println(usuarios);
+		
+		
+		List<Usuario> listUsuarios = new ArrayList<Usuario>();
+		listUsuarios.addAll(usuarios);
+		System.out.println("List Usuarios");
+		System.out.println(listUsuarios);
+		
+		List<Usuario> listEmpleados = new ArrayList<Usuario>(10);
+		
+		Usuario usuario4 = new Usuario(4, "Antonio");
+		Usuario usuario5 = new Usuario(5, "Moises");
+		Usuario usuario6 = new Usuario(6, "Laura");
+		
+		listEmpleados.add(usuario4);
+		listEmpleados.add(usuario5);
+		listEmpleados.add(usuario6);
+		
+		System.out.println("List Empleados");
+		System.out.println(listEmpleados);
+		
+		listEmpleados.addAll(1, listUsuarios);
+		
+		System.out.println("List Empleados +");
+		System.out.println(listEmpleados);
+		
+		Usuario usuario7 = new Usuario(7, "Amor");
+		listEmpleados.add(2, usuario7);
+		
+		System.out.println("List Empleados ++");
+		System.out.println(listEmpleados);
+		
+		listEmpleados.remove(usuario5);
+		System.out.println("List Empleados - elemento usuario5");
+		System.out.println(listEmpleados);
+		
+		listEmpleados.remove(3);
+		System.out.println("List Empleados - elemento posición 3");
+		System.out.println(listEmpleados);
+		
+		
+		Usuario usuario8 = new Usuario(8, "Serapio");
+		listEmpleados.set(3, usuario8);
+		System.out.println("List Empleados <-> elemento posición 3");
+		System.out.println(listEmpleados);
+		
+		
+		listEmpleados.clear();
+		System.out.println("List Empleados ### LIMPIEZA");
+		System.out.println(listEmpleados);
+		
+		
+		
+		
 	}
 	
 	

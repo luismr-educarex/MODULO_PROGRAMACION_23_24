@@ -25,11 +25,11 @@ public class Usuario {
 		this.nombre = nombre;
 	}
 
-	@Override
-	public String toString() {
-		return "Usuario [id=" + id + ", nombre=" + nombre + "]";
-	}
 	
+	  @Override 
+	  public String toString() { return "Usuario [id=" + id + ", nombre="
+	  + nombre + "]"; }
+	 
 	
 
 }
