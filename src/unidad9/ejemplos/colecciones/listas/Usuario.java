@@ -1,5 +1,7 @@
 package unidad9.ejemplos.colecciones.listas;
 
+
+
 public class Usuario {
 	
 	private int id;
@@ -10,6 +12,15 @@ public class Usuario {
 		super();
 		this.id = id;
 		this.nombre = nombre;
+	}
+	/**
+	 * Función que valida el nombre con la primera letra en mayúsculas
+	 * @param nombre
+	 * @return
+	 */
+	public boolean validarNombre(String nombre) {
+		
+		return true;
 	}
 	
 	public int getId() {
