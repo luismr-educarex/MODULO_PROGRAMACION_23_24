@@ -15,8 +15,8 @@ public class GenerarAletorios {
 		int numAleatorio2 = random.nextInt(190);
 		System.out.println(numAleatorio2);
 		//Generar numero enteros entre 0 y el 99
-		double numAleatorio3 = random.nextDouble(100);
-		System.out.println(numAleatorio3);
+		//double numAleatorio3 = random.nextDouble(100);
+		//System.out.println(numAleatorio3);
 	}
 
 }

@@ -11,8 +11,9 @@ public class GenerarAleatoriosSeguro {
 		int numAleatorio = random.nextInt(100);
 		System.out.println(numAleatorio);
 		
-		double numAleatorio2 = random.nextDouble(100);
+	/*	double numAleatorio2 = random.nextDouble(100);
 		System.out.println(numAleatorio2);
+		*/
 	}
 
 }
