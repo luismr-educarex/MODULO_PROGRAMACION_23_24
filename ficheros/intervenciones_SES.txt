@@ -1,0 +1,49 @@
+2010,Hospital Universitario de Badajoz,Cirugía de corazón abierto,5
+2010,Hospital Universitario de Badajoz,Trasplante de riñón,7
+2010,Hospital Universitario de Badajoz,Cirugía de columna vertebral,3
+2010,Hospital Universitario de Badajoz,Cirugía de cataratas,10
+2010,Hospital Universitario de Badajoz,Cirugía laparoscópica de vesícula biliar,8
+2011,Hospital Universitario de Cáceres,Cirugía de reemplazo de cadera,6
+2011,Hospital Universitario de Cáceres,Cirugía de reemplazo de rodilla,4
+2011,Hospital Universitario de Cáceres,Cirugía de cáncer de mama,9
+2011,Hospital Universitario de Cáceres,Cirugía de bypass gástrico,2
+2011,Hospital Universitario de Cáceres,Cirugía de tumor cerebral,5
+2012,Hospital Infanta Cristina de Badajoz,Cirugía de apendicitis,7
+2012,Hospital Infanta Cristina de Badajoz,Cirugía de hernia inguinal,3
+2012,Hospital Infanta Cristina de Badajoz,Cirugía de revascularización coronaria,6
+2012,Hospital Infanta Cristina de Badajoz,Cirugía de tiroides,4
+2012,Hospital Infanta Cristina de Badajoz,Cirugía de fractura de fémur,8
+2013,Hospital Don Benito-Villanueva de la Serena,Cirugía de cataratas,9
+2013,Hospital Don Benito-Villanueva de la Serena,Cirugía de vesícula biliar,5
+2013,Hospital Don Benito-Villanueva de la Serena,Cirugía de hernia discal,3
+2013,Hospital Don Benito-Villanueva de la Serena,Cirugía de bypass gástrico,6
+2013,Hospital Don Benito-Villanueva de la Serena,Cirugía de tumor de mama,7
+2014,Hospital Virgen del Puerto de Plasencia,Cirugía de reemplazo de cadera,8
+2014,Hospital Virgen del Puerto de Plasencia,Cirugía de reemplazo de rodilla,4
+2014,Hospital Virgen del Puerto de Plasencia,Cirugía de cáncer de colon,7
+2014,Hospital Virgen del Puerto de Plasencia,Cirugía de extracción de tumor de pulmón,6
+2014,Hospital Virgen del Puerto de Plasencia,Cirugía de cataratas,3
+2015,Hospital San Pedro de Alcántara de Cáceres,Cirugía de reemplazo de cadera,7
+2015,Hospital San Pedro de Alcántara de Cáceres,Cirugía de reemplazo de rodilla,6
+2015,Hospital San Pedro de Alcántara de Cáceres,Cirugía de cáncer de próstata,9
+2015,Hospital San Pedro de Alcántara de Cáceres,Cirugía de bypass gástrico,2
+2015,Hospital San Pedro de Alcántara de Cáceres,Cirugía de tumor cerebral,5
+2016,Hospital Campo Arañuelo de Navalmoral de la Mata,Cirugía de apendicitis,8
+2016,Hospital Campo Arañuelo de Navalmoral de la Mata,Cirugía de hernia umbilical,3
+2016,Hospital Campo Arañuelo de Navalmoral de la Mata,Cirugía de cataratas,6
+2016,Hospital Campo Arañuelo de Navalmoral de la Mata,Cirugía de fractura de radio,4
+2016,Hospital Campo Arañuelo de Navalmoral de la Mata,Cirugía de extracción de vesícula biliar,7
+2017,Hospital Tierra de Barros de Almendralejo,Cirugía de reemplazo de cadera,5
+2017,Hospital Tierra de Barros de Almendralejo,Cirugía de reemplazo de rodilla,6
+2017,Hospital Tierra de Barros de Almendralejo,Cirugía de cáncer de colon,9
+2017,Hospital Tierra de Barros de Almendralejo,Cirugía de cataratas,3
+2018,Hospital de Llerena,Cirugía de apendicitis,6
+2018,Hospital de Llerena,Cirugía de hernia inguinal,5
+2018,Hospital de Llerena,Cirugía de cataratas,7
+2019,Hospital de Zafra,Cirugía de reemplazo de cadera,7
+2019,Hospital de Zafra,Cirugía de reemplazo de rodilla,5
+2019,Hospital de Zafra,Cirugía de cáncer de mama,9
+2020,Hospital de Coria,Cirugía de apendicitis,8
+2020,Hospital de Coria,Cirugía de hernia discal,5
+2020,Hospital de Valle de la Serena,Cirugía de cataratas,6
+2020,Hospital de Montijo,Cirugía de reemplazo de cadera,3
