@@ -1,0 +1,501 @@
+id_centro#centro educativo de secundaria#provincia#material#cantidad
+1#IES Al-Qazeres#Cáceres#monitores#45
+2#IES Augustóbriga#Cáceres#pantallas#20
+3#IES Alba Plata#Badajoz#equipos#75
+4#IES Bárbara de Braganza#Badajoz#impresoras#10
+5#IES Francisco Vera#Badajoz#monitores#30
+6#IES Gonzalo Torrente Ballester#Cáceres#pantallas#85
+7#IES Luis de Morales#Badajoz#impresoras#5
+8#IES Norba Caesarina#Cáceres#equipos#60
+9#IES Puente Ajuda#Badajoz#monitores#15
+10#IES San José#Badajoz#pantallas#50
+11#IES Virgen de Guadalupe#Badajoz#monitores#40
+12#IES José Manzano#Villanueva de la Serena#impresoras#25
+13#IES José Manuel Blecua#Zaragoza#pantallas#70
+14#IES José Saramago#Miajadas#monitores#80
+15#IES José Vasconcelos#Zafra#impresoras#55
+16#IES Juan Calero#Zafra#equipos#90
+17#IES Juana de Avila#Mérida#monitores#65
+18#IES Juventud#Zafra#pantallas#35
+19#IES La Paz#Mérida#impresoras#15
+20#IES Llerena#Llerena#monitores#20
+21#IES Loustau-Valverde#Cáceres#pantallas#40
+22#IES Luis de Morales#Mérida#monitores#85
+23#IES Luis de Morales#Villanueva de la Serena#equipos#75
+24#IES Luis Chamizo#Daimiel#impresoras#5
+25#IES Maestro Gonzalo Korreas#Olivenza#pantallas#10
+26#IES Mar de Aragón#Caspe#monitores#30
+27#IES María de la Paz Manzano#Don Benito#impresoras#65
+28#IES María Guerrero#Badajoz#equipos#50
+29#IES María Moliner#Badajoz#monitores#20
+30#IES María Pérez Trujillo#Mérida#pantallas#45
+31#IES Mario Roso de Luna#Logrosán#impresoras#80
+32#IES Martín Aldehuela#Plasencia#monitores#15
+33#IES Matías Ramón Martínez#Coria#impresoras#25
+34#IES Mauricio Legendre#Villanueva de la Serena#pantallas#60
+35#IES Medina Azahara#Villanueva de la Serena#monitores#70
+36#IES Meléndez Valdés#Almendralejo#equipos#90
+37#IES Moctezuma#Olivenza#impresoras#40
+38#IES Narcís Monturiol#Don Benito#pantallas#35
+39#IES Noreña#Arroyo de la Luz#monitores#25
+40#IES Nuestra Señora de Bótoa#Badajoz#impresoras#50
+41#IES Nuestra Señora de Guadalupe#Cáceres#equipos#65
+42#IES Nuestra Señora de la Soledad#Mérida#monitores#15
+43#IES Nuestra Señora de Loreto#Arroyo de la Luz#pantallas#30
+44#IES Obispo Fernando de Mayo#Alburquerque#impresoras#75
+45#IES Orellana la Vieja#Badajoz#monitores#20
+46#IES Padre Manjón#Cáceres#pantallas#45
+47#IES Palacio Valdés#Mérida#impresoras#10
+48#IES Parque de Monfragüe#Plasencia#equipos#80
+49#IES Pedro de Valdivia#Villanueva de la Serena#monitores#55
+50#IES Politécnico#Puebla de la Calzada#pantallas#35
+51#IES Princesa Galiana#Mérida#impresoras#60
+52#IES Puente Ajuda#Alburquerque#equipos#25
+53#IES Ramón Carande#Badajoz#monitores#45
+54#IES Ramón Izquierdo#Cáceres#pantallas#70
+55#IES Ramón Martín Huerta#Zafra#impresoras#85
+56#IES Reino Aftasí#Mérida#monitores#40
+57#IES Reino Aftasí#Villanueva de la Serena#pantallas#20
+58#IES Ribera del Tajo#Talavera de la Reina#impresoras#5
+59#IES Ricardo Carapeto#Trujillo#equipos#30
+60#IES Rodrigo Calderón#Mérida#monitores#70
+61#IES Romero Murube#Cáceres#pantallas#90
+62#IES Rosalía de Castro#Cáceres#impresoras#15
+63#IES San Antonio de Padua#Badajoz#monitores#45
+64#IES San Fernando#Mérida#pantallas#25
+65#IES San Francisco de Paula#Badajoz#impresoras#60
+66#IES San José#Villanueva de la Serena#equipos#75
+67#IES San Juan de la Cruz#Badajoz#monitores#85
+68#IES San Martín#Cáceres#pantallas#95
+69#IES San Mateo#Cáceres#impresoras#80
+70#IES Santa Eulalia#Mérida#monitores#75
+71#IES Santa Eulalia#Zafra#pantallas#35
+72#IES Santa Teresa de Jesús#Badajoz#impresoras#40
+73#IES Santiago Apóstol#Trujillo#equipos#20
+74#IES Santiago Apostol#Puebla de la Calzada#monitores#30
+75#IES Santiago de Alcántara#Santiago de Alcántara#pantallas#50
+76#IES Santiago Grisolía#Mérida#impresoras#45
+77#IES Santiago Ramón y Cajal#Don Benito#monitores#10
+78#IES Santiago Ramón y Cajal#Mérida#pantallas#25
+79#IES Santiago Ramón y Cajal#Villanueva de la Serena#impresoras#15
+80#IES Sápere Aude#Navalmoral de la Mata#equipos#90
+81#IES Sierra la Mesta#Trujillo#monitores#60
+82#IES Sierra de Montánchez#Montánchez#pantallas#40
+83#IES Siglo XXI#Plasencia#impresoras#25
+84#IES Siglo XXI#Cáceres#monitores#30
+85#IES Sol de Portocarrero#Almendralejo#pantallas#20
+86#IES Sta María de Guía#Don Benito#impresoras#85
+87#IES Tierrablanca#Torrejoncillo#monitores#70
+88#IES Torre Lucía#Montánchez#pantallas#45
+89#IES Turgalium#Trujillo#impresoras#55
+90#IES Val de Xálima#Villanueva de la Serena#equipos#50
+91#IES Valdepasillas#Badajoz#monitores#65
+92#IES Valdemedel#Badajoz#pantallas#85
+93#IES Valle del Alagón#Coria#impresoras#40
+94#IES Valle del Jerte#Plasencia#monitores#20
+95#IES Vegas Bajas#Montijo#pantallas#15
+96#IES Vicente Aleixandre#Badajoz#impresoras#25
+97#IES Virgen de Argeme#Plasencia#monitores#30
+98#IES Virgen de Botoa#Badajoz#pantallas#35
+99#IES Virgen de Guadalupe#Navalmoral de la Mata#impresoras#40
+100#IES Virgen de Guadalupe#Cáceres#equipos#45
+101#IES Virgen de la Luz#Navalmoral de la Mata#monitores#50
+102#IES Virgen de la Luz#Cáceres#pantallas#55
+103#IES Virgen de la Soledad#Navalmoral de la Mata#impresoras#60
+104#IES Virgen de la Vega#Navalmoral de la Mata#monitores#65
+105#IES Virgen del Puerto#Plasencia#pantallas#70
+106#IES Virgen del Puerto#Cáceres#impresoras#75
+107#IES Xauradó#Cáceres#monitores#80
+108#IES Xauradó#Navalmoral de la Mata#pantallas#85
+109#IES Zaurín#Cáceres#impresoras#90
+110#IES Zaurín#Navalmoral de la Mata#monitores#95
+111#IES Alba Plata#Don Benito#pantallas#10
+112#IES Bárbara de Braganza#Almendralejo#impresoras#20
+113#IES Francisco Vera#Olivenza#equipos#30
+114#IES Gonzalo Torrente Ballester#Zafra#monitores#40
+115#IES Luis de Morales#Puebla de la Calzada#pantallas#50
+116#IES Norba Caesarina#Plasencia#impresoras#60
+117#IES Puente Ajuda#Montijo#monitores#70
+118#IES San José#Navalmoral de la Mata#pantallas#80
+119#IES Virgen de Guadalupe#Mérida#impresoras#90
+120#IES Al-Qazeres#Trujillo#equipos#25
+121#IES Augustóbriga#Navalmoral de la Mata#monitores#35
+122#IES Alba Plata#Plasencia#pantallas#45
+123#IES Bárbara de Braganza#Cáceres#impresoras#55
+124#IES Francisco Vera#Badajoz#monitores#65
+125#IES Gonzalo Torrente Ballester#Don Benito#pantallas#75
+126#IES Luis de Morales#Mérida#impresoras#85
+127#IES Norba Caesarina#Cáceres#monitores#95
+128#IES Puente Ajuda#Badajoz#pantallas#10
+129#IES San José#Villanueva de la Serena#impresoras#20
+130#IES Virgen de Guadalupe#Badajoz#monitores#30
+131#IES Al-Qazeres#Badajoz#pantallas#40
+132#IES Augustóbriga#Cáceres#impresoras#50
+133#IES Alba Plata#Villanueva de la Serena#monitores#60
+134#IES Bárbara de Braganza#Mérida#pantallas#70
+135#IES Francisco Vera#Villanueva de la Serena#impresoras#80
+136#IES Gonzalo Torrente Ballester#Almendralejo#monitores#90
+137#IES Luis de Morales#Don Benito#pantallas#15
+138#IES Norba Caesarina#Mérida#impresoras#25
+139#IES Puente Ajuda#Zafra#monitores#35
+140#IES San José#Plasencia#pantallas#45
+141#IES Virgen de Guadalupe#Trujillo#impresoras#55
+142#IES Al-Qazeres#Don Benito#monitores#65
+143#IES Augustóbriga#Almendralejo#pantallas#75
+144#IES Alba Plata#Montijo#impresoras#85
+145#IES Bárbara de Braganza#Miajadas#monitores#95
+146#IES Francisco Vera#Puebla de la Calzada#pantallas#25
+147#IES Gonzalo Torrente Ballester#Plasencia#impresoras#35
+148#IES Luis de Morales#Cáceres#monitores#45
+149#IES Norba Caesarina#Villanueva de la Serena#pantallas#55
+150#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+151#IES San José#Mérida#monitores#75
+152#IES Virgen de Guadalupe#Navalmoral de la Mata#pantallas#85
+153#IES Al-Qazeres#Plasencia#impresoras#95
+154#IES Augustóbriga#Cáceres#monitores#30
+155#IES Alba Plata#Badajoz#pantallas#40
+156#IES Bárbara de Braganza#Don Benito#impresoras#50
+157#IES Francisco Vera#Zafra#monitores#60
+158#IES Gonzalo Torrente Ballester#Montijo#pantallas#70
+159#IES Luis de Morales#Puebla de la Calzada#impresoras#80
+160#IES Norba Caesarina#Mérida#monitores#90
+161#IES Puente Ajuda#Plasencia#pantallas#10
+162#IES San José#Cáceres#impresoras#20
+163#IES Virgen de Guadalupe#Villanueva de la Serena#monitores#30
+164#IES Al-Qazeres#Badajoz#pantallas#40
+165#IES Augustóbriga#Don Benito#impresoras#50
+166#IES Alba Plata#Almendralejo#monitores#60
+167#IES Bárbara de Braganza#Montijo#pantallas#70
+168#IES Francisco Vera#Plasencia#impresoras#80
+169#IES Gonzalo Torrente Ballester#Cáceres#monitores#90
+170#IES Luis de Morales#Badajoz#pantallas#15
+171#IES Norba Caesarina#Mérida#impresoras#25
+172#IES Puente Ajuda#Don Benito#monitores#35
+173#IES San José#Zafra#pantallas#45
+174#IES Virgen de Guadalupe#Mérida#impresoras#55
+175#IES Al-Qazeres#Almendralejo#monitores#65
+176#IES Augustóbriga#Plasencia#pantallas#75
+177#IES Alba Plata#Cáceres#impresoras#85
+178#IES Bárbara de Braganza#Villanueva de la Serena#monitores#95
+179#IES Francisco Vera#Navalmoral de la Mata#pantallas#25
+180#IES Gonzalo Torrente Ballester#Miajadas#impresoras#35
+181#IES Luis de Morales#Puebla de la Calzada#monitores#45
+182#IES Norba Caesarina#Montijo#pantallas#55
+183#IES Puente Ajuda#Cáceres#impresoras#65
+184#IES San José#Villanueva de la Serena#monitores#75
+185#IES Virgen de Guadalupe#Zafra#pantallas#85
+186#IES Al-Qazeres#Mérida#impresoras#95
+187#IES Augustóbriga#Navalmoral de la Mata#monitores#30
+188#IES Alba Plata#Plasencia#pantallas#40
+189#IES Bárbara de Braganza#Cáceres#impresoras#50
+190#IES Francisco Vera#Don Benito#monitores#60
+191#IES Gonzalo Torrente Ballester#Almendralejo#pantallas#70
+192#IES Luis de Morales#Trujillo#impresoras#80
+193#IES Norba Caesarina#Badajoz#monitores#90
+194#IES Puente Ajuda#Mérida#pantallas#10
+195#IES San José#Almendralejo#impresoras#20
+196#IES Virgen de Guadalupe#Cáceres#monitores#30
+197#IES Al-Qazeres#Badajoz#pantallas#40
+198#IES Augustóbriga#Plasencia#impresoras#50
+199#IES Alba Plata#Villanueva de la Serena#monitores#60
+200#IES Bárbara de Braganza#Montijo#pantallas#70
+201#IES Francisco Vera#Cáceres#impresoras#80
+202#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+203#IES Luis de Morales#Mérida#pantallas#15
+204#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+205#IES Puente Ajuda#Cáceres#monitores#35
+206#IES San José#Badajoz#pantallas#45
+207#IES Virgen de Guadalupe#Plasencia#impresoras#55
+208#IES Al-Qazeres#Cáceres#monitores#65
+209#IES Augustóbriga#Badajoz#pantallas#75
+210#IES Alba Plata#Don Benito#impresoras#85
+211#IES Bárbara de Braganza#Almendralejo#monitores#95
+212#IES Francisco Vera#Mérida#pantallas#25
+213#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+214#IES Luis de Morales#Zafra#monitores#45
+215#IES Norba Caesarina#Montijo#pantallas#55
+216#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+217#IES San José#Cáceres#monitores#75
+218#IES Virgen de Guadalupe#Plasencia#pantallas#85
+219#IES Al-Qazeres#Badajoz#impresoras#95
+220#IES Augustóbriga#Cáceres#monitores#30
+221#IES Alba Plata#Badajoz#pantallas#40
+222#IES Bárbara de Braganza#Don Benito#impresoras#50
+223#IES Francisco Vera#Almendralejo#monitores#60
+224#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+225#IES Luis de Morales#Cáceres#impresoras#80
+226#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+227#IES Puente Ajuda#Zafra#pantallas#10
+228#IES San José#Mérida#impresoras#20
+229#IES Virgen de Guadalupe#Plasencia#monitores#30
+230#IES Al-Qazeres#Cáceres#pantallas#40
+231#IES Augustóbriga#Plasencia#impresoras#50
+232#IES Alba Plata#Villanueva de la Serena#monitores#60
+233#IES Bárbara de Braganza#Montijo#pantallas#70
+234#IES Francisco Vera#Cáceres#impresoras#80
+235#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+236#IES Luis de Morales#Mérida#pantallas#15
+237#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+238#IES Puente Ajuda#Cáceres#monitores#35
+239#IES San José#Badajoz#pantallas#45
+240#IES Virgen de Guadalupe#Plasencia#impresoras#55
+241#IES Al-Qazeres#Cáceres#monitores#65
+242#IES Augustóbriga#Badajoz#pantallas#75
+243#IES Alba Plata#Don Benito#impresoras#85
+244#IES Bárbara de Braganza#Almendralejo#monitores#95
+245#IES Francisco Vera#Mérida#pantallas#25
+246#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+247#IES Luis de Morales#Zafra#monitores#45
+248#IES Norba Caesarina#Montijo#pantallas#55
+249#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+250#IES San José#Cáceres#monitores#75
+251#IES Virgen de Guadalupe#Plasencia#pantallas#85
+252#IES Al-Qazeres#Badajoz#impresoras#95
+253#IES Augustóbriga#Cáceres#monitores#30
+254#IES Alba Plata#Badajoz#pantallas#40
+255#IES Bárbara de Braganza#Don Benito#impresoras#50
+256#IES Francisco Vera#Almendralejo#monitores#60
+257#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+258#IES Luis de Morales#Cáceres#impresoras#80
+259#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+260#IES Puente Ajuda#Zafra#pantallas#10
+261#IES San José#Mérida#impresoras#20
+262#IES Virgen de Guadalupe#Plasencia#monitores#30
+263#IES Al-Qazeres#Cáceres#pantallas#40
+264#IES Augustóbriga#Plasencia#impresoras#50
+265#IES Alba Plata#Villanueva de la Serena#monitores#60
+266#IES Bárbara de Braganza#Montijo#pantallas#70
+267#IES Francisco Vera#Cáceres#impresoras#80
+268#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+269#IES Luis de Morales#Mérida#pantallas#15
+270#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+271#IES Puente Ajuda#Cáceres#monitores#35
+272#IES San José#Badajoz#pantallas#45
+273#IES Virgen de Guadalupe#Plasencia#impresoras#55
+274#IES Al-Qazeres#Cáceres#monitores#65
+275#IES Augustóbriga#Badajoz#pantallas#75
+276#IES Alba Plata#Don Benito#impresoras#85
+277#IES Bárbara de Braganza#Almendralejo#monitores#95
+278#IES Francisco Vera#Mérida#pantallas#25
+279#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+280#IES Luis de Morales#Zafra#monitores#45
+281#IES Norba Caesarina#Montijo#pantallas#55
+282#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+283#IES San José#Cáceres#monitores#75
+284#IES Virgen de Guadalupe#Plasencia#pantallas#85
+285#IES Al-Qazeres#Badajoz#impresoras#95
+286#IES Augustóbriga#Cáceres#monitores#30
+287#IES Alba Plata#Badajoz#pantallas#40
+288#IES Bárbara de Braganza#Don Benito#impresoras#50
+289#IES Francisco Vera#Almendralejo#monitores#60
+290#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+291#IES Luis de Morales#Cáceres#impresoras#80
+292#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+293#IES Puente Ajuda#Zafra#pantallas#10
+294#IES San José#Mérida#impresoras#20
+295#IES Virgen de Guadalupe#Plasencia#monitores#30
+296#IES Al-Qazeres#Cáceres#pantallas#40
+297#IES Augustóbriga#Plasencia#impresoras#50
+298#IES Alba Plata#Villanueva de la Serena#monitores#60
+299#IES Bárbara de Braganza#Montijo#pantallas#70
+300#IES Francisco Vera#Cáceres#impresoras#80
+301#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+302#IES Luis de Morales#Mérida#pantallas#15
+303#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+304#IES Puente Ajuda#Cáceres#monitores#35
+305#IES San José#Badajoz#pantallas#45
+306#IES Virgen de Guadalupe#Plasencia#impresoras#55
+307#IES Al-Qazeres#Cáceres#monitores#65
+308#IES Augustóbriga#Badajoz#pantallas#75
+309#IES Alba Plata#Don Benito#impresoras#85
+310#IES Bárbara de Braganza#Almendralejo#monitores#95
+311#IES Francisco Vera#Mérida#pantallas#25
+312#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+313#IES Luis de Morales#Zafra#monitores#45
+314#IES Norba Caesarina#Montijo#pantallas#55
+315#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+316#IES San José#Cáceres#monitores#75
+317#IES Virgen de Guadalupe#Plasencia#pantallas#85
+318#IES Al-Qazeres#Badajoz#impresoras#95
+319#IES Augustóbriga#Cáceres#monitores#30
+320#IES Alba Plata#Badajoz#pantallas#40
+321#IES Bárbara de Braganza#Don Benito#impresoras#50
+322#IES Francisco Vera#Almendralejo#monitores#60
+323#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+324#IES Luis de Morales#Cáceres#impresoras#80
+325#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+326#IES Puente Ajuda#Zafra#pantallas#10
+327#IES San José#Mérida#impresoras#20
+328#IES Virgen de Guadalupe#Plasencia#monitores#30
+329#IES Al-Qazeres#Cáceres#pantallas#40
+330#IES Augustóbriga#Plasencia#impresoras#50
+331#IES Alba Plata#Villanueva de la Serena#monitores#60
+332#IES Bárbara de Braganza#Montijo#pantallas#70
+333#IES Francisco Vera#Cáceres#impresoras#80
+334#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+335#IES Luis de Morales#Mérida#pantallas#15
+336#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+337#IES Puente Ajuda#Cáceres#monitores#35
+338#IES San José#Badajoz#pantallas#45
+339#IES Virgen de Guadalupe#Plasencia#impresoras#55
+340#IES Al-Qazeres#Cáceres#monitores#65
+341#IES Augustóbriga#Badajoz#pantallas#75
+342#IES Alba Plata#Don Benito#impresoras#85
+343#IES Bárbara de Braganza#Almendralejo#monitores#95
+344#IES Francisco Vera#Mérida#pantallas#25
+345#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+346#IES Luis de Morales#Zafra#monitores#45
+347#IES Norba Caesarina#Montijo#pantallas#55
+348#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+349#IES San José#Cáceres#monitores#75
+350#IES Virgen de Guadalupe#Plasencia#pantallas#85
+351#IES Al-Qazeres#Badajoz#impresoras#95
+352#IES Augustóbriga#Cáceres#monitores#30
+353#IES Alba Plata#Badajoz#pantallas#40
+354#IES Bárbara de Braganza#Don Benito#impresoras#50
+355#IES Francisco Vera#Almendralejo#monitores#60
+356#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+357#IES Luis de Morales#Cáceres#impresoras#80
+358#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+359#IES Puente Ajuda#Zafra#pantallas#10
+360#IES San José#Mérida#impresoras#20
+361#IES Virgen de Guadalupe#Plasencia#monitores#30
+362#IES Al-Qazeres#Cáceres#pantallas#40
+363#IES Augustóbriga#Plasencia#impresoras#50
+364#IES Alba Plata#Villanueva de la Serena#monitores#60
+365#IES Bárbara de Braganza#Montijo#pantallas#70
+366#IES Francisco Vera#Cáceres#impresoras#80
+367#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+368#IES Luis de Morales#Mérida#pantallas#15
+369#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+370#IES Puente Ajuda#Cáceres#monitores#35
+371#IES San José#Badajoz#pantallas#45
+372#IES Virgen de Guadalupe#Plasencia#impresoras#55
+373#IES Al-Qazeres#Cáceres#monitores#65
+374#IES Augustóbriga#Badajoz#pantallas#75
+375#IES Alba Plata#Don Benito#impresoras#85
+376#IES Bárbara de Braganza#Almendralejo#monitores#95
+377#IES Francisco Vera#Mérida#pantallas#25
+378#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+379#IES Luis de Morales#Zafra#monitores#45
+380#IES Norba Caesarina#Montijo#pantallas#55
+381#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+382#IES San José#Cáceres#monitores#75
+383#IES Virgen de Guadalupe#Plasencia#pantallas#85
+384#IES Al-Qazeres#Badajoz#impresoras#95
+385#IES Augustóbriga#Cáceres#monitores#30
+386#IES Alba Plata#Badajoz#pantallas#40
+387#IES Bárbara de Braganza#Don Benito#impresoras#50
+388#IES Francisco Vera#Almendralejo#monitores#60
+389#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+390#IES Luis de Morales#Cáceres#impresoras#80
+391#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+392#IES Puente Ajuda#Zafra#pantallas#10
+393#IES San José#Mérida#impresoras#20
+394#IES Virgen de Guadalupe#Plasencia#monitores#30
+395#IES Al-Qazeres#Cáceres#pantallas#40
+396#IES Augustóbriga#Plasencia#impresoras#50
+397#IES Alba Plata#Villanueva de la Serena#monitores#60
+398#IES Bárbara de Braganza#Montijo#pantallas#70
+399#IES Francisco Vera#Cáceres#impresoras#80
+400#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+401#IES Luis de Morales#Mérida#pantallas#15
+402#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+403#IES Puente Ajuda#Cáceres#monitores#35
+404#IES San José#Badajoz#pantallas#45
+405#IES Virgen de Guadalupe#Plasencia#impresoras#55
+406#IES Al-Qazeres#Cáceres#monitores#65
+407#IES Augustóbriga#Badajoz#pantallas#75
+408#IES Alba Plata#Don Benito#impresoras#85
+409#IES Bárbara de Braganza#Almendralejo#monitores#95
+410#IES Francisco Vera#Mérida#pantallas#25
+411#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+412#IES Luis de Morales#Zafra#monitores#45
+413#IES Norba Caesarina#Montijo#pantallas#55
+414#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+415#IES San José#Cáceres#monitores#75
+416#IES Virgen de Guadalupe#Plasencia#pantallas#85
+417#IES Al-Qazeres#Badajoz#impresoras#95
+418#IES Augustóbriga#Cáceres#monitores#30
+419#IES Alba Plata#Badajoz#pantallas#40
+420#IES Bárbara de Braganza#Don Benito#impresoras#50
+421#IES Francisco Vera#Almendralejo#monitores#60
+422#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+423#IES Luis de Morales#Cáceres#impresoras#80
+424#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+425#IES Puente Ajuda#Zafra#pantallas#10
+426#IES San José#Mérida#impresoras#20
+427#IES Virgen de Guadalupe#Plasencia#monitores#30
+428#IES Al-Qazeres#Cáceres#pantallas#40
+429#IES Augustóbriga#Plasencia#impresoras#50
+430#IES Alba Plata#Villanueva de la Serena#monitores#60
+431#IES Bárbara de Braganza#Montijo#pantallas#70
+432#IES Francisco Vera#Cáceres#impresoras#80
+433#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+434#IES Luis de Morales#Mérida#pantallas#15
+435#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+436#IES Puente Ajuda#Cáceres#monitores#35
+437#IES San José#Badajoz#pantallas#45
+438#IES Virgen de Guadalupe#Plasencia#impresoras#55
+439#IES Al-Qazeres#Cáceres#monitores#65
+440#IES Augustóbriga#Badajoz#pantallas#75
+441#IES Alba Plata#Don Benito#impresoras#85
+442#IES Bárbara de Braganza#Almendralejo#monitores#95
+443#IES Francisco Vera#Mérida#pantallas#25
+444#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+445#IES Luis de Morales#Zafra#monitores#45
+446#IES Norba Caesarina#Montijo#pantallas#55
+447#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+448#IES San José#Cáceres#monitores#75
+449#IES Virgen de Guadalupe#Plasencia#pantallas#85
+450#IES Al-Qazeres#Badajoz#impresoras#95
+451#IES Augustóbriga#Cáceres#monitores#30
+452#IES Alba Plata#Badajoz#pantallas#40
+453#IES Bárbara de Braganza#Don Benito#impresoras#50
+454#IES Francisco Vera#Almendralejo#monitores#60
+455#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+456#IES Luis de Morales#Cáceres#impresoras#80
+457#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+458#IES Puente Ajuda#Zafra#pantallas#10
+459#IES San José#Mérida#impresoras#20
+460#IES Virgen de Guadalupe#Plasencia#monitores#30
+461#IES Al-Qazeres#Cáceres#pantallas#40
+462#IES Augustóbriga#Plasencia#impresoras#50
+463#IES Alba Plata#Villanueva de la Serena#monitores#60
+464#IES Bárbara de Braganza#Montijo#pantallas#70
+465#IES Francisco Vera#Cáceres#impresoras#80
+466#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+467#IES Luis de Morales#Mérida#pantallas#15
+468#IES Norba Caesarina#Villanueva de la Serena#impresoras#25
+469#IES Puente Ajuda#Cáceres#monitores#35
+470#IES San José#Badajoz#pantallas#45
+471#IES Virgen de Guadalupe#Plasencia#impresoras#55
+472#IES Al-Qazeres#Cáceres#monitores#65
+473#IES Augustóbriga#Badajoz#pantallas#75
+474#IES Alba Plata#Don Benito#impresoras#85
+475#IES Bárbara de Braganza#Almendralejo#monitores#95
+476#IES Francisco Vera#Mérida#pantallas#25
+477#IES Gonzalo Torrente Ballester#Villanueva de la Serena#impresoras#35
+478#IES Luis de Morales#Zafra#monitores#45
+479#IES Norba Caesarina#Montijo#pantallas#55
+480#IES Puente Ajuda#Navalmoral de la Mata#impresoras#65
+481#IES San José#Cáceres#monitores#75
+482#IES Virgen de Guadalupe#Plasencia#pantallas#85
+483#IES Al-Qazeres#Badajoz#impresoras#95
+484#IES Augustóbriga#Cáceres#monitores#30
+485#IES Alba Plata#Badajoz#pantallas#40
+486#IES Bárbara de Braganza#Don Benito#impresoras#50
+487#IES Francisco Vera#Almendralejo#monitores#60
+488#IES Gonzalo Torrente Ballester#Navalmoral de la Mata#pantallas#70
+489#IES Luis de Morales#Cáceres#impresoras#80
+490#IES Norba Caesarina#Villanueva de la Serena#monitores#90
+491#IES Puente Ajuda#Zafra#pantallas#10
+492#IES San José#Mérida#impresoras#20
+493#IES Virgen de Guadalupe#Plasencia#monitores#30
+494#IES Al-Qazeres#Cáceres#pantallas#40
+495#IES Augustóbriga#Plasencia#impresoras#50
+496#IES Alba Plata#Villanueva de la Serena#monitores#60
+497#IES Bárbara de Braganza#Montijo#pantallas#70
+498#IES Francisco Vera#Cáceres#impresoras#80
+499#IES Gonzalo Torrente Ballester#Don Benito#monitores#90
+500#IES Luis de Morales#Mérida#pantallas#15
