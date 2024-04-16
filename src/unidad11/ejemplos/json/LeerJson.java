@@ -21,10 +21,15 @@ public class LeerJson {
 			for(int i=0;i<array.size();i++){
 
 				JSONObject plato = (JSONObject)array.get(i);
+			
+
+				System.out.println(plato);
 
 				String nombre = (String) plato.get("nombre");
+				String precio = (String) plato.get("precio");
 
 				System.out.println("Nombre:"+nombre);
+				System.out.println("Precio:"+precio);
 
 			}
 
