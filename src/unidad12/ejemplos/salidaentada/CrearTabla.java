@@ -14,15 +14,21 @@ import javax.sql.rowset.RowSetProvider;
 public class CrearTabla {
 
 	static Properties props = new Properties();
-	
+	static String[] cabecera ;
 	
 	public static void main(String[] args) {
 		
-		recuperarListadoPersonas();
+		cabecera = new String[] {"ID","NOMBRE","APELLIDO","CIUDAD"};
+		
+		String[][] datos = recuperarListadoPersonas();
+		
+		String titulo = "Empleados";
+		
+		new Tabla(datos,cabecera,titulo).setVisible(true);
 
 	}
 	
-	public static void recuperarListadoPersonas() {
+	public static String[][] recuperarListadoPersonas() {
 		
 		//cargar fichero de propiedades
 				cargarPropiedades();
@@ -30,6 +36,8 @@ public class CrearTabla {
 				String url = props.getProperty("url");
 				String user = props.getProperty("user");
 				String password = props.getProperty("password");
+				
+				String[][] datos = null;
 				
 				try {
 					RowSetFactory rowSetFactory = RowSetProvider.newFactory();
@@ -43,13 +51,26 @@ public class CrearTabla {
 					rowSet.setCommand("SELECT * FROM personas");
 					rowSet.execute();
 					
+					//Obtener el número de filas que nos devuelve la sentencia
+					int numFilas = 0;
+					if(rowSet.last()) {
+						numFilas = rowSet.getRow();
+						rowSet.beforeFirst(); // Regresa el cursor a la primera posición
+					}
+					
+					
+					datos = new String[numFilas][cabecera.length];
+					
+					int contadorFila=0;
 					while(rowSet.next()) {
-						System.out.println("PERSONA");
-						System.out.println(rowSet.getInt("id"));
-						System.out.println(rowSet.getString("nombre"));
-						System.out.println(rowSet.getString("apellido"));
-						System.out.println(rowSet.getString("ciudad"));
-						System.out.println("_________________");
+						String[] fila = new String[cabecera.length];
+						fila[0] = String.valueOf(rowSet.getInt("id"));
+						fila[1] = rowSet.getString("nombre");
+						fila[2] = rowSet.getString("apellido");
+						fila[3] = rowSet.getString("ciudad");
+						
+						datos[contadorFila]= fila;
+						contadorFila++;
 					}
 					
 					
@@ -59,6 +80,7 @@ public class CrearTabla {
 					e.printStackTrace();
 				}
 				
+				return datos;
 		
 	}
 	
