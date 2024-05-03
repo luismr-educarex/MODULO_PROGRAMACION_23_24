@@ -4,8 +4,15 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.List;
 
 public class PersonaDAO {
+	
+	public List<Persona> obtenerTodasPersonas() {
+		
+		
+		return null;
+	}
 	
 	public void insertarPersona(Persona persona) {
 		
