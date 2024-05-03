@@ -2,34 +2,42 @@ package unidad13.distribuciones;
 
 import java.awt.Button;
 import java.awt.FlowLayout;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
+import javax.swing.DefaultListModel;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
+import javax.swing.JList;
 import javax.swing.JOptionPane;
+import javax.swing.JPanel;
+import javax.swing.JScrollPane;
 import javax.swing.JTextField;
+import javax.swing.ListSelectionModel;
 
 public class FlowLayoutDemo extends JFrame {
 	
 	 private JTextField nombre;
 	 private JTextField apellido;
 	 private JTextField ciudad;
-	 /* PARA AÑADIR UN JList
+	//  PARA AÑADIR UN JList
 	 private JList listaNombres; // Lista de personas
 	 private DefaultListModel modelo; // Objeto que modela la lista
 	 private JScrollPane scrollLista; // Barra de desplazamiento vertical
-	 */
+	 
+	 private JPanel panel;
+	 
 	
     public FlowLayoutDemo() {
         super("Ventana con FlowLayout");
         setLayout(new FlowLayout());
+        
         add(new JLabel("Nombre:"));
         nombre =new JTextField(10); 
         add(nombre);
+        
         add(new JLabel("Apellido:"));
         apellido =new JTextField(10); 
         add(apellido);
+        
         add(new JLabel("Ciudad:"));
         ciudad =new JTextField(10); 
         add(ciudad);
@@ -37,19 +45,23 @@ public class FlowLayoutDemo extends JFrame {
         Button bAceptar =  new Button("Aceptar"); 
         add(bAceptar);
         
-        bAceptar.addActionListener(new ActionListener() {
+       /* bAceptar.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent ae) {
 				leerDatosFormulario();
 			}
 		});
+        */
+        bAceptar.addActionListener(e -> leerDatosFormulario()); // Una forma mucho más rápida de gestionar los eventos
         
-        //bAceptar.addActionListener(e -> leerDatosFormulario()); // Una forma mucho más rápida de gestionar los eventos
+        
+        panel= new JPanel();
+        add(panel);
         
         /**
          * 
          * PARA AÑADIR UN JList
          */
-        /*
+        
         // Establece la lista gráfica de personas
         listaNombres = new JList();
         //Establece que se pueda seleccionar solamente un elemento de la lista 
@@ -63,13 +75,14 @@ public class FlowLayoutDemo extends JFrame {
         // Asocia la barra de desplazamiento vertical a la lista de personas
         scrollLista.setViewportView(listaNombres);
         
-        add(scrollLista);
-         */
+        //add(scrollLista);
+         
         
         
         setLocationRelativeTo(null);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        pack();
+        setSize(600,400);
+        //pack();
         setVisible(true);
        
     }
@@ -87,19 +100,36 @@ public class FlowLayoutDemo extends JFrame {
         String surname = apellido.getText();
         String city = ciudad.getText();
         
-       
+        //HAY QUE HACER USO DE UN DTO o VO
         
-        showDataInConsole(name,surname,city);
-        showDataInNewFrame(name, surname, city);
-        showDataInJOptionPane(name, surname, city);
-        //showDataInJList(name,surname,city);
+        
+         // en este punto
+        
+        //showDataInConsole(name,surname,city);
+        //showDataInNewFrame(name, surname, city);
+        //showDataInJOptionPane(name, surname, city);
+        showDataInJList(name,surname,city);
+        showDataInJPanel(name,surname,city);
         
      
         
     }
     
-    /*
-    private void showDataInJList(String name, String surname, String city) {
+    
+    private void showDataInJPanel(String name, String surname, String city) {
+		
+    	panel.setLayout(new FlowLayout());
+    	panel.removeAll();
+    	panel.add(new JLabel("Nombre:"+name));
+    	panel.add(new JLabel("Apellido:"+surname));
+    	panel.add(new JLabel("Ciudad:"+city));
+    	panel.setSize(300,200);
+    	panel.revalidate();
+    	panel.repaint();
+    	panel.setVisible(true);
+	}
+
+	private void showDataInJList(String name, String surname, String city) {
 		
     	
     	
@@ -108,7 +138,7 @@ public class FlowLayoutDemo extends JFrame {
          listaNombres.setModel(modelo);
 		
 	}
-    */
+    
 
 	private void showDataInConsole(String name, String surname, String city) {
 		
