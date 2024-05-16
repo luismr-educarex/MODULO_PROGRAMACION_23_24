@@ -65,9 +65,8 @@ public class DialogoMatricula extends JDialog {
     }
 
     // Método para mostrar el diálogo y devolver los datos introducidos
-    public String showDialog() {
+    public String mostrarDialogo() {
         setVisible(true);
-
         return licenseField.getText();
     }
 }

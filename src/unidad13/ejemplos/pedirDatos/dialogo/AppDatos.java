@@ -5,10 +5,7 @@ import javax.swing.JFrame;
 public class AppDatos extends JFrame{
 
 	public AppDatos() {
-        // Configuración inicial de la ventana
-        setTitle("Sistema de Parking");
-        setSize(400, 300);
-        setVisible(true);
+        
 	}
         
 	public static void main(String[] args) {
@@ -19,7 +16,7 @@ public class AppDatos extends JFrame{
 	        frame.setVisible(true);
 		
 		DialogoMatricula dialogo = new DialogoMatricula(frame);
-		String dato = dialogo.showDialog();
+		String dato = dialogo.mostrarDialogo();
 		System.out.println("Dato:"+dato);
 
 	}
