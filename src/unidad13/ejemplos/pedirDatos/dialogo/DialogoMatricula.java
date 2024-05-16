@@ -1,4 +1,4 @@
-package unidad13.ejemplos.pedirDatos;
+package unidad13.ejemplos.pedirDatos.dialogo;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

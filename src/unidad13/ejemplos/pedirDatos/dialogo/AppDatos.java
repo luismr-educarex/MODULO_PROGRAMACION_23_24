@@ -1,4 +1,4 @@
-package unidad13.ejemplos.pedirDatos;
+package unidad13.ejemplos.pedirDatos.dialogo;
 
 import javax.swing.JFrame;
 
@@ -13,7 +13,12 @@ public class AppDatos extends JFrame{
         
 	public static void main(String[] args) {
 		
-		DialogoMatricula dialogo = new DialogoMatricula(this);
+		 JFrame frame = new JFrame();
+	        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+	        frame.setSize(300, 200);
+	        frame.setVisible(true);
+		
+		DialogoMatricula dialogo = new DialogoMatricula(frame);
 		String dato = dialogo.showDialog();
 		System.out.println("Dato:"+dato);
 
