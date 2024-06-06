@@ -1,0 +1,36 @@
+1 | 2024-02-14 | 938938 | CONSULTA | Dr. Smith | Cardiología
+2 | 2024-03-19 | 199988 | CIRUGIA | Apéndice | Dr. Johnson
+3 | 2024-05-05 | 212390 | TRATAMIENTO | Ibuprofeno | 200mg | 5 días | 2023-06-01
+4 | 2024-04-08 | 765423 | CONSULTA | Dr. Lee | Dermatología
+5 | 2024-01-22 | 765423 | TRATAMIENTO | Amoxicilina | 500mg | 7 días | 2023-06-05
+6 | 2024-05-20 | 938938 | CIRUGIA | Cataratas | Dr. Brown
+7 | 2024-02-26 | 938938 | TRATAMIENTO | Paracetamol | 500mg | 3 días | 2023-06-07
+8 | 2024-03-05 | 102938 | CONSULTA | Dr. White | Gastroenterología
+9 | 2024-01-13 | 564738 | CIRUGIA | Hernia | Dr. Adams
+10 | 2024-04-02 | 394857 | TRATAMIENTO | Insulina | 10UI | 14 días | 2023-06-10
+11 | 2024-01-30 | 283746 | CONSULTA | Dr. Green | Neurología
+12 | 2024-03-28 | 283746 | TRATAMIENTO | Omeprazol | 20mg | 10 días | 2023-06-12
+13 | 2024-04-25 | 183746 | CIRUGIA | Cadera | Dr. Taylor
+14 | 2024-03-03 | 183746 | TRATAMIENTO | Metformina | 500mg | 30 días | 2023-06-15
+15 | 2024-01-08 | 384756 | CONSULTA | Dr. Carter | Oftalmología
+16 | 2024-02-18 | 294857 | CIRUGIA | Vesícula | Dr. Allen
+17 | 2024-05-28 | 192837 | TRATAMIENTO | Prednisona | 10mg | 5 días | 2023-06-17
+18 | 2024-01-14 | 837465 | CONSULTA | Dr. Scott | Pediatría
+19 | 2024-04-13 | 837465 | TRATAMIENTO | Furosemida | 40mg | 7 días | 2023-06-19
+20 | 2024-03-16 | 938938 | CIRUGIA | Corazón | Dr. Anderson
+21 | 2024-05-15 | 938938 | TRATAMIENTO | Lisinopril | 20mg | 10 días | 2023-06-20
+22 | 2024-04-01 | 647382 | CONSULTA | Dr. Clark | Psiquiatría
+23 | 2024-03-26 | 938290 | CIRUGIA | Rodilla | Dr. Lewis
+24 | 2024-05-08 | 485736 | TRATAMIENTO | Atorvastatina | 20mg | 15 días | 2023-06-22
+25 | 2024-01-23 | 384756 | CONSULTA | Dr. Wright | Reumatología
+26 | 2024-02-02 | 384756 | TRATAMIENTO | Hidroclorotiazida | 25mg | 7 días | 2023-06-25
+27 | 2024-02-21 | 948576 | CONSULTA | Dr. Miller | Urología
+28 | 2024-04-22 | 948576 | TRATAMIENTO | Amlodipina | 5mg | 10 días | 2023-06-27
+29 | 2024-03-30 | 857463 | CIRUGIA | Codo | Dr. Martin
+30 | 2024-01-11 | 857463 | TRATAMIENTO | Enalapril | 10mg | 30 días | 2023-06-29
+31 | 2024-03-09 | 293847 | CIRUGIA | Tobillo | Dr. Walker
+32 | 2024-04-20 | 948576 | TRATAMIENTO | Losartán | 50mg | 20 días | 2023-06-30
+33 | 2024-01-19 | 837465 | CONSULTA | Dr. Phillips | Oncología
+34 | 2024-05-21 | 837465 | TRATAMIENTO | Espironolactona | 25mg | 7 días | 2023-07-01
+35 | 2024-05-02 | 938938 | CIRUGIA | Columna | Dr. Harris
+36 | 2024-03-14 | 938938 | TRATAMIENTO | Furosemida | 40mg | 10 días | 2023-07-03
