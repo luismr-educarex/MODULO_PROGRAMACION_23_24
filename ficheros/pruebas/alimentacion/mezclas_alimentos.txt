@@ -1,0 +1,19 @@
+5
+SI: cebada alfalfa maiz: GRANO: 200: 3.5 FIN
+NO: avena guisantes soja: GRANO: 160: 2.8 FIN
+SI: alfalfa zanahoria remolacha: POLVO: 125 FIN
+NO: maiz avena trigo: POLVO: 180 FIN
+SI: cebada trigo habas: GRANO: 140: 3.0 FIN
+4
+SI: alfalfa remolacha arroz: GRANO: 130: 2.5 FIN
+NO: maiz ternera cebada: POLVO: 190 FIN
+SI: guisantes zanahoria soja: GRANO: 175: 2.7 FIN
+NO: sorgo festuca raigras: POLVO: 150 FIN
+6
+SI: alfalfa cebada festuca: GRANO: 200: 3.3 FIN
+NO: raigras guisantes avena: POLVO: 160 FIN
+SI: remolacha cebada soja: GRANO: 220: 3.6 FIN
+NO: sorgo zanahoria alfalfa: POLVO: 170 FIN
+SI: habas maiz trigo: GRANO: 210: 3.2 FIN
+NO: cebada soja remolacha: POLVO: 180 FIN
+0
