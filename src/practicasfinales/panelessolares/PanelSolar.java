@@ -13,6 +13,7 @@ public class PanelSolar {
 	 * Retorna el identificador del panel
 	 */
 	public String obtenerId() {
+		return null;
 		
 	}
 	
@@ -22,6 +23,7 @@ public class PanelSolar {
 	 */
 	
 	public boolean panelAlineado() {
+		return false;
 		
 	}
 	
@@ -31,6 +33,7 @@ public class PanelSolar {
 	 * Lanza Averiado si el panel está averiado.
 	 * */
 	public double acimut() throws Averiado{
+		return 0;
 		
 	}
 	
@@ -41,6 +44,7 @@ public class PanelSolar {
 	 */
 	
 	public double elevacion() throws Averiado{
+		return 0;
 		
 	}
 	
@@ -48,6 +52,7 @@ public class PanelSolar {
 	 * Retorna la potencia eléctrica, en vatios, que el panel está produciendo en este instante
 	 */
 	public double potencia() {
+		return 0;
 		
 	}
 	

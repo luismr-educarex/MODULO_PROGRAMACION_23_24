@@ -4,6 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
+import java.util.List;
 
 public class ProductoDAO {
 	
@@ -52,20 +53,21 @@ public class ProductoDAO {
 	
 	
 	public List<Producto> listarTodosLosProductos(){
+		return null;
 		
 		
 	}
 	
 	public boolean eliminarProducto(Producto producto) {
-		
+		return false;
 	}
 	
 	public boolean actualizarProducto(Producto producto) {
-		
+		return false;
 	}
 	
 	public Producto obtenerProducto(String codigo) {
-		
+		return null;
 	}
 
 

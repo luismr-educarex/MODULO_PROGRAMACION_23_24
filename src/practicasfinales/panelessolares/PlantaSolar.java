@@ -29,6 +29,7 @@ public class PlantaSolar {
 	 * Retorna null si no hay paneles que cumplan esa condición
 	 */
 	 public PanelSolar panelAnomalo() {
+		return null;
 		 
 	 }
 
